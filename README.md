@@ -1,2 +1,2 @@
 # Amazon-Clone
-** Web based Amazon clone 
+### Web based Amazon clone 
