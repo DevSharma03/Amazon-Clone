@@ -16,7 +16,7 @@ This repository contains a fully responsive **Amazon landing page clone** built 
 
 - **Frontend**: HTML5, CSS3
 - **Design Approach**: Flexbox, media queries
-- **Icons**: Font Awesome (if integrated)
+- **Icons**: Font Awesome
 - **IDE Used**: VS Code
 
 ## 📁 Project Structure
